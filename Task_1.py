@@ -32,3 +32,4 @@ if __name__ == "__main__":
         print(f"- Password must contain  at least one punctuation character ({symbols}")
     if not len_checker(inp):
         print("- Password must be at least 14 characters long")
+ 
